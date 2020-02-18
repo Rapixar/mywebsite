@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import {Link} from 'react-router-dom';
-import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
+import {Link, Route} from 'react-router-dom';
 
 class Pagewrapper extends Component {
 
